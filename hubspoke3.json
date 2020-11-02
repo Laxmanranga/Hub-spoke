@@ -95,7 +95,7 @@
 		"winVmNicName": "[concat(variables('winJmphostName'), 'NIC')]",
 		"winVmSpokeVM1NicName": "[concat(variables('WinspokeVM1'), 'NIC')]",
 		"winVmStorageName": "[concat('hubwinvm',uniquestring(resourceGroup().id))]",
-		"winVmSpokeVM1StorageName": "[concat('SpokeVM1vm',uniquestring(resourceGroup().id))]",
+		"winVmSpokeVM1StorageName": "[concat('spokevm1',uniquestring(resourceGroup().id))]",
 		"winNsgName": "winJmpHostNsg",
 		"winSpokeVM1NsgName": "winSpokeVM1Nsg",
 		"winJmphostPublicIpName": "winJmphostVmPublicIp",
