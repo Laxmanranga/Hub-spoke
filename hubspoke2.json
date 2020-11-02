@@ -81,7 +81,7 @@
     "gatewayPIPName": "hubVpnGatewayPublicIp",
     "subnetGatewayId": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('hubVnetName'), variables('gatewaySubnetName'))]",
     "winJmphostName": "winJmphostVm",
-	"WinspokeVM1": "SpokeVM1"
+	"WinspokeVM1": "SpokeVM1",
     "devSpokeVnetName": "spokeDevVnet",
     "devSpokeVnetPrefix": "10.10.0.0/16",
     "prodSpokeVnetName": "spokeProdVnet",
