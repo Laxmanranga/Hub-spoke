@@ -3,6 +3,7 @@
 
 ![Best Practice Check](https://azurequickstarttemplates.blob.core.windows.net/hubspoke/BestPracticeResult.svg)
 
+[![Visualize](https://azurequickstarttemplates.blob.core.windows.net/hubspoke/visualizebutton.svg)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FLaxmanranga%2FHub-spoke%2FMaster%2FAzure-Hub-Spoke.json)
 
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FLaxmanranga%2FHub-spoke%2FMaster%2FAzure-Hub-Spoke.json)
 
