@@ -14,6 +14,6 @@ This template creates a basic hub-and-spoke topology setup. It creates a Hub VNe
 Note that if you choose to deploy the VPN gateway, it may take up to 45 minutes to complete.
 
 ## Architecture diagram
-
+![](hybrid-network-hub-spoke.gif)
 https://azurequickstarttemplates.blob.core.windows.net/hubspoke/hybrid-network-hub-spoke.gif 
 
